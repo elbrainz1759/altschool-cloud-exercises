@@ -85,7 +85,7 @@ watch -n 2 "df -h"
 ```
 
 **Screenshot**:  
-![watch command](./images/watch.jpg)
+![watch command](./images/watch.png)
 
 ---
 
@@ -99,7 +99,7 @@ ss -tuln
 ```
 
 **Screenshot**:  
-![ss command](./images/ss.jpg)
+![ss command](./images/ss.png)
 
 ---
 
@@ -113,7 +113,7 @@ htop
 ```
 
 **Screenshot**:  
-![htop command](./images/htop.jpg)
+![htop command](./images/htop.png)
 
 ---
 
@@ -141,7 +141,7 @@ sudo chage -l username
 ```
 
 **Screenshot**:  
-![chage command](./images/chage.jpg)
+![chage command](./images/chage.png)
 
 ---
 
