@@ -22,18 +22,20 @@ This folder contains screenshots in PNG format as evidence of completing the fol
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
-- `images/etc_group.png`  
+- ![etc group](./images/etc_group.png)  
+ 
   ➤ Screenshot of the `/etc/group` file showing the created groups and users.
 
-- `images/etc_passwd.png`  
+- ![etc group](./images/etc_passwd.png)  
+
   ➤ Screenshot of the `/etc/passwd` file showing the users and their home directories.
 
-- `images/etc_sudoers.png`  
+- ![etc group](./images/etc_sudoers.png)  
   ➤ Screenshot of the `/etc/sudoers` file confirming the `admin` group has sudo privileges.
 
-- `images/exercise3_general.png`  
+- ![etc group](./images/exercise3_general.png)  
   ➤ Screenshot of the `SSH Generated` file confirming the `SSH key` generation
 
 ---
