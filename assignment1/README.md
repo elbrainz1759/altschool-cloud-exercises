@@ -62,3 +62,13 @@ This repository contains two Bash scripts written as part of a scripting assignm
 ---
 
 
+## Setup Instructions
+
+1. Clone or download the repository.
+2. Make the scripts executable using:
+   ```bash
+   chmod +x check_file.sh count_files.sh
+   ```
+3. Run the scripts as shown in the usage sections above.
+
+---
