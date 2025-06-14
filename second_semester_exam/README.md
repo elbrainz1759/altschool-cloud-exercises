@@ -1,41 +1,68 @@
 
-# AltSchool Cloud Project – Dynamic Landing Page Deployment
+# AltSchool Second Semester Exam Project 
 
-## Project Overview
+##  Project Overview
 
 This project demonstrates the provisioning of a cloud server, setup of a modern web stack, and deployment of a professional dynamic landing page for showcasing cloud engineering skills. The site is hosted on an AWS EC2 instance with Nginx as a reverse proxy for a Node.js application.
 
 ---
 
-## Live Demo
+##  Live Demo
 
-- **Subdomain:** [https://altschool.agehjeremiah.com](https://altschool.agehjeremiah.com) - SSL Installed
+- **Subdomain:** [https://altschool.agehjeremiah.com](https://altschool.agehjeremiah.com) – SSL Installed
 
 ---
 
 ## Screenshots
 
-| Screenshot | Description |
-|-----------|-------------|
-| ![ec2_first](screenshots/ec2_first.png) | EC2 instance setup with Ubuntu OS |
-| ![ec2](screenshots/ec2.png) | Security group configuration (HTTP, HTTPS, SSH) |
-| ![chmod](screenshots/chmod.png) | Made PEM key read-only for SSH |
-| ![ssh](screenshots/ssh.png) | Successfully connected to the server via SSH |
-| ![nginx](screenshots/nginx.png) | Nginx default landing page working |
-| ![node](screenshots/node.png) | Node.js installed and running on port 3000 |
-| ![nginx_conf](screenshots/nginx_conf.png) | Reverse proxy configured in Nginx |
-| ![node2](screenshots/node2.png) | EC2 IP redirects to port 3000 via Nginx |
-| ![subdomain](screenshots/subdomain.png) | Subdomain configured via Route 53 |
-| ![ssl](screenshots/ssl.png) | Let’s Encrypt SSL successfully applied |
-| ![pm2](screenshots/pm2.png) | PM2 used for managing the Node.js app |
-| ![site1](screenshots/site1.png) | Live landing page screenshot (1) |
-| ![site2](screenshots/site2.png) | Live landing page screenshot (2) |
-| ![site3](screenshots/site3.png) | Live landing page screenshot (3) |
-| ![site4](screenshots/site4.png) | Live landing page screenshot (4) |
+**EC2 instance setup with Ubuntu OS** 
+![ec2_first](images/ec2_first.png)
+
+**Security group configuration (HTTP, HTTPS, SSH)** 
+![ec2](images/ec2.png)
+
+**Made PEM key read-only for SSH** 
+![chmod](images/chmod.png)
+
+**Successfully connected to the server via SSH** 
+![ssh](images/ssh.png)
+
+**Nginx default landing page working** 
+![nginx](images/nginx.png)
+
+**Node.js installed and running on port 3000** 
+![node](images/node.png)
+
+**Reverse proxy configured in Nginx** 
+![nginx_conf](images/nginx_conf.png)
+
+**EC2 IP redirects to port 3000 via Nginx** 
+![node2](images/node2.png)
+
+**Subdomain configured via Route 53** 
+![subdomain](images/subdomain.png)
+
+**Let’s Encrypt SSL successfully applied** 
+![ssl](images/ssl.png)
+
+**PM2 used for managing the Node.js app** 
+![pm2](images/pm2.png)
+
+**Live landing page screenshot (1)** 
+![site1](images/site1.png)
+
+**Live landing page screenshot (2)** 
+![site2](images/site2.png)
+
+**Live landing page screenshot (3)** 
+![site3](images/site3.png)
+
+**Live landing page screenshot (4)** 
+![site4](images/site4.png)
 
 ---
 
-##  Setup Steps
+## Setup Steps
 
 ### 1. Provisioning EC2 Instance (Ubuntu)
 - Created a new EC2 instance with Ubuntu 22.04.
@@ -112,8 +139,8 @@ pm2 save
 
 ## About Me
 
-**Name:** Jeremiah Ageh 
-**Role:** Lead Cloud Engineer 
+**Name:** Jeremiah Ageh  
+**Role:** Lead Cloud Engineer  
 **Project Title:** *The Future of AI-Powered Healthcare*
 
 ---
