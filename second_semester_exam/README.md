@@ -11,6 +11,10 @@ This project demonstrates the provisioning of a cloud server, setup of a modern 
 
 - **Subdomain:** [https://altschool.agehjeremiah.com](https://altschool.agehjeremiah.com) – SSL Installed
 
+- **Public IP:** [http://13.221.240.132:3000](http://13.221.240.132:3000) - No SSL 
+
+
+
 ---
 
 ## Screenshots
